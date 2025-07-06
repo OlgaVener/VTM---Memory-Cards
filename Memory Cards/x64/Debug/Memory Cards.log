@@ -1,4 +1,5 @@
-﻿  Card.cpp
+﻿  AnimationManager.cpp
+  Card.cpp
 C:\Users\ROG\Desktop\Memory cards\Card.cpp(16,33): warning C4305: 'argument': truncation from 'double' to 'float'
 C:\Users\ROG\Desktop\Memory cards\Card.cpp(16,28): warning C4305: 'argument': truncation from 'double' to 'float'
 C:\Users\ROG\Desktop\Memory cards\Card.cpp(17,32): warning C4305: 'argument': truncation from 'double' to 'float'
