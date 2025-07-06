@@ -1,0 +1,12 @@
+﻿  Card.cpp
+C:\Users\ROG\Desktop\Memory cards\Card.cpp(16,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ROG\Desktop\Memory cards\Card.cpp(16,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ROG\Desktop\Memory cards\Card.cpp(17,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ROG\Desktop\Memory cards\Card.cpp(17,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ROG\Desktop\Memory cards\Card.cpp(18,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ROG\Desktop\Memory cards\Card.cpp(18,27): warning C4305: 'argument': truncation from 'double' to 'float'
+  Game.cpp
+  Main.cpp
+  Ui.cpp
+  Generating Code...
+  Memory Cards.vcxproj -> C:\Users\ROG\Desktop\Memory cards\x64\Debug\Memory Cards.exe
